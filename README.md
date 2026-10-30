@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Bárbara! 👋
 
-<!--
-**Butrera/Butrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **UX/UI Designer & Frontend Developer** based in Madrid, Spain.
 
-Here are some ideas to get you started:
+With a background in graphic and editorial design, I love combining creativity, technology, and storytelling to build intuitive digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ What I'm working on
+- Building my personal design portfolio.
+- Developing creative websites with HTML, CSS & JavaScript.
+- Exploring UX/UI, interactions, and web animations.
+
+### 🛠️ Tools & Technologies
+- **Development:** HTML5, CSS3, JavaScript
+- **Workflow:** Git, GitHub, VS Code, Jitter
+- **Design:** Figma, Illustrator, Photoshop, InDesign
+
+### 📬 Let's connect!
+- 🌐 https://www.linkedin.com/in/barbara-utrera-3a4ba4217/
+- 📍 Madrid, Spain
+
+
