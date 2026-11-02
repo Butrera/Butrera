@@ -6,8 +6,9 @@ With a background in graphic and editorial design, I love combining creativity, 
 
 ### What I'm working on
 - Building my personal design portfolio.
+-  Exploring UX/UI, interactions, and web animations.
 - Developing creative websites with HTML, CSS & JavaScript.
-- Exploring UX/UI, interactions, and web animations.
+
 
 ### Tools & Technologies
 - **Development:** HTML5, CSS3, JavaScript
