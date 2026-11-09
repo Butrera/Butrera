@@ -16,6 +16,7 @@ With a background in graphic and editorial design, I love combining creativity, 
 - **Design:** Figma, Illustrator, Photoshop, InDesign
 
 ### Let's connect!
+- https://barbarautrera.com/
 - 🌐 https://www.linkedin.com/in/barbara-utrera-3a4ba4217/
 - 📍 Madrid, Spain
 
