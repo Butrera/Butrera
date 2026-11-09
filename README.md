@@ -12,7 +12,7 @@ With a background in graphic and editorial design, I love combining creativity, 
 
 ### Tools & Technologies
 - **Development:** HTML5, CSS3, JavaScript
-- **Workflow:** Git, GitHub, VS Code, Jitter
+- **Workflow:** Git, GitHub, VS Code
 - **Design:** Figma, Illustrator, Photoshop, InDesign
 
 ### Let's connect!
